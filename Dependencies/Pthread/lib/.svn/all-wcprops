@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib
+END
+pthreadVCE2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib/pthreadVCE2.dll
+END
+pthreadVSE2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib/pthreadVSE2.dll
+END
+pthreadGCE2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib/pthreadGCE2.dll
+END
+pthreadVC2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib/pthreadVC2.lib
+END
+pthreadVC2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib/pthreadVC2.dll
+END
+pthreadVCE2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib/pthreadVCE2.lib
+END
+pthreadVSE2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib/pthreadVSE2.lib
+END
+pthreadGC2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/lib/pthreadGC2.dll
+END

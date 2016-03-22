@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm
+END
+edm_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/edm_system.h
+END
+edm_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/edm_types.h
+END
+edm_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/edm_object.h
+END
+edm_surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/edm_surface.h
+END
+edm_solid.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/edm_solid.h
+END
+edm_force.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/edm_force.h
+END
+edm.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/edm.h
+END
+edm_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/edm_model.h
+END

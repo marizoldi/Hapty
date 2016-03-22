@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/solvers
+END
+mbd_merit.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/solvers/mbd_merit.h
+END
+mbd_projected_gauss_seidel.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/solvers/mbd_projected_gauss_seidel.h
+END

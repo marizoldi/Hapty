@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/integrators
+END
+sph_leapfrog.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/integrators/sph_leapfrog.h
+END
+sph_integrators.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/integrators/sph_integrators.h
+END
+sph_verlet.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/integrators/sph_verlet.h
+END
+sph_euler.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/integrators/sph_euler.h
+END

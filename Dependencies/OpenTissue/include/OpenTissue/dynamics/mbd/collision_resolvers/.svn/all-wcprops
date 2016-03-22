@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_resolvers
+END
+mbd_iterate_once_collision_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_resolvers/mbd_iterate_once_collision_resolver.h
+END
+mbd_sequential_truncating_collision_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_resolvers/mbd_sequential_truncating_collision_resolver.h
+END
+mbd_sequential_collision_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_resolvers/mbd_sequential_collision_resolver.h
+END

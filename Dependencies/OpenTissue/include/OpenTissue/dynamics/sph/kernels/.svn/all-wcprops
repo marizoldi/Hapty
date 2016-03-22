@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/kernels
+END
+sph_spiky.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/kernels/sph_spiky.h
+END
+sph_kernels.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/kernels/sph_kernels.h
+END
+sph_poly6.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/kernels/sph_poly6.h
+END
+sph_gaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/kernels/sph_gaussian.h
+END
+sph_viscosity.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/kernels/sph_viscosity.h
+END

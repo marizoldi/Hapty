@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/include
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/include/semaphore.h
+END
+sched.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/include/sched.h
+END
+pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/Pthread/include/pthread.h
+END

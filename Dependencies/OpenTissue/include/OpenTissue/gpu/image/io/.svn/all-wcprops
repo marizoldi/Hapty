@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/io
+END
+image_write.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/io/image_write.h
+END
+image_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/io/image_read.h
+END
+image_il_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/io/image_il_wrap.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/emitters
+END
+sph_circle.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/emitters/sph_circle.h
+END
+sph_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/emitters/sph_point.h
+END
+sph_emitters.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/emitters/sph_emitters.h
+END

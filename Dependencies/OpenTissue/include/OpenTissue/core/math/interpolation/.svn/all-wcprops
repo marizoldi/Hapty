@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interpolation
+END
+interpolation_polynomial_interpolator.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interpolation/interpolation_polynomial_interpolator.h
+END
+interpolation_variational_interpolator.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interpolation/interpolation_variational_interpolator.h
+END
+interpolation_base_interpolator.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interpolation/interpolation_base_interpolator.h
+END
+interpolation_spline_interpolator.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interpolation/interpolation_spline_interpolator.h
+END

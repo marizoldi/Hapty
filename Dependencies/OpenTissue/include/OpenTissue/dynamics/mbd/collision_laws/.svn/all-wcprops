@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_laws
+END
+mbd_newton_collision_law_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_laws/mbd_newton_collision_law_policy.h
+END
+mbd_chatterjee_ruina_collision_law_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_laws/mbd_chatterjee_ruina_collision_law_policy.h
+END
+mbd_frictional_newton_collision_law_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_laws/mbd_frictional_newton_collision_law_policy.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interval
+END
+interval_empty.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interval/interval_empty.h
+END
+interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interval/interval.h
+END
+interval_fwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interval/interval_fwd.h
+END
+interval_intersect.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interval/interval_intersect.h
+END
+interval_boost_interval_type_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interval/interval_boost_interval_type_traits.h
+END
+interval_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interval/interval_vector.h
+END
+interval_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/interval/interval_matrix.h
+END

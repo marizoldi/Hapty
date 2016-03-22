@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection
+END
+mbd_collision_detection.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection/mbd_collision_detection.h
+END
+mbd_exhaustive_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection/mbd_exhaustive_search.h
+END
+mbd_caching_contact_graph_analysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection/mbd_caching_contact_graph_analysis.h
+END
+mbd_spatial_hashing.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection/mbd_spatial_hashing.h
+END
+mbd_sweep_and_prune.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection/mbd_sweep_and_prune.h
+END
+mbd_single_group_analysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection/mbd_single_group_analysis.h
+END
+mbd_geometry_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection/mbd_geometry_dispatcher.h
+END
+mbd_setup_default_geometry_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/collision_detection/mbd_setup_default_geometry_dispatcher.h
+END

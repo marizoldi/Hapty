@@ -1,0 +1,52 @@
+10
+
+dir
+24
+http://hapticanimation.unfuddle.com/svn/hapticanimation_otbody/Dependencies/OpenTissue/include/OpenTissue/dynamics
+http://hapticanimation.unfuddle.com/svn/hapticanimation_otbody
+
+
+
+2009-05-22T17:03:52.399662Z
+18
+anarkik3d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b3d65d9e-55ef-486c-8c7b-5139348e6f92
+
+mbd
+dir
+
+edm
+dir
+
+fem
+dir
+
+meshless_deformation
+dir
+
+sph
+dir
+
+psys
+dir
+
+swe
+dir
+
+versatile
+dir
+

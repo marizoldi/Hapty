@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/collision/policies
+END
+sph_tetrahedra_points.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/collision/policies/sph_tetrahedra_points.h
+END
+sph_collision_policies.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/collision/policies/sph_collision_policies.h
+END
+sph_implicitprimitives_points.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/collision/policies/sph_implicitprimitives_points.h
+END

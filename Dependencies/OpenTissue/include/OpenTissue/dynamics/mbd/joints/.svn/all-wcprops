@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/joints
+END
+mbd_wheel_joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/joints/mbd_wheel_joint.h
+END
+mbd_universal_joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/joints/mbd_universal_joint.h
+END
+mbd_ball_joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/joints/mbd_ball_joint.h
+END
+mbd_hinge_joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/joints/mbd_hinge_joint.h
+END
+mbd_slider_joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/joints/mbd_slider_joint.h
+END

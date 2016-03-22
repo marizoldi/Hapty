@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/psys/mass_spring_system
+END
+psys_surface_mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/psys/mass_spring_system/psys_surface_mesh.h
+END
+psys_cloth.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/psys/mass_spring_system/psys_cloth.h
+END
+psys_mass_spring_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/psys/mass_spring_system/psys_mass_spring_system.h
+END

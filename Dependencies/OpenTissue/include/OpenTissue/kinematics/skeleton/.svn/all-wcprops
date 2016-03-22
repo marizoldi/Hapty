@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/skeleton
+END
+skeleton_default_bone_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/skeleton/skeleton_default_bone_traits.h
+END
+skeleton_bone.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/skeleton/skeleton_bone.h
+END
+skeleton_bone_access.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/skeleton/skeleton_bone_access.h
+END
+skeleton_skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/skeleton/skeleton_skeleton.h
+END
+skeleton_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/skeleton/skeleton_types.h
+END

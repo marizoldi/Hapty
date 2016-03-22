@@ -1,0 +1,2 @@
+C:\WINDDK\3790.1830\inc\wxp
+C:\WINDDK\3790.1830\lib\wxp\i386;

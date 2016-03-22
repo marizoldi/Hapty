@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile
+END
+versatile_node_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_node_traits.h
+END
+versatile_volume_constraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_volume_constraint.h
+END
+versatile_area_constraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_area_constraint.h
+END
+versatile_mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_mesh.h
+END
+versatile_distance_constraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_distance_constraint.h
+END
+gl_draw_versatile.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/gl_draw_versatile.h
+END
+versatile_simulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_simulator.h
+END
+versatile.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile.h
+END
+versatile_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_types.h
+END
+versatile_tetrahedron_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_tetrahedron_traits.h
+END
+versatile_collision_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/versatile/versatile_collision_policy.h
+END

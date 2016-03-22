@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/materials
+END
+sph_materials.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/materials/sph_materials.h
+END
+sph_water.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/materials/sph_water.h
+END
+sph_steam.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/materials/sph_steam.h
+END
+sph_mucus.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/materials/sph_mucus.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/noise
+END
+noise_fractal_sum_absolute.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/noise/noise_fractal_sum_absolute.h
+END
+noise_improved_perlin.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/noise/noise_improved_perlin.h
+END
+noise_fractal_sum.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/noise/noise_fractal_sum.h
+END
+noise_turbulence.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/noise/noise_turbulence.h
+END
+noise_perlin.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/noise/noise_perlin.h
+END

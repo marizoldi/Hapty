@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph
+END
+sph.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph.h
+END
+sph_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph_kernel.h
+END
+sph_particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph_particle.h
+END
+sph_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph_system.h
+END
+sph_emitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph_emitter.h
+END
+sph_idealgas.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph_idealgas.h
+END
+sph_solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph_solver.h
+END
+sph_integrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph_integrator.h
+END
+sph_material.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/sph_material.h
+END

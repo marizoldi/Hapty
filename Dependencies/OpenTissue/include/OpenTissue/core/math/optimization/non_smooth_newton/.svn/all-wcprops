@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/non_smooth_newton
+END
+optimization_compute_partitioned_jacobian.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/non_smooth_newton/optimization_compute_partitioned_jacobian.h
+END
+optimization_compute_inverse_D.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/non_smooth_newton/optimization_compute_inverse_D.h
+END
+optimization_compute_jacobian.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/non_smooth_newton/optimization_compute_jacobian.h
+END

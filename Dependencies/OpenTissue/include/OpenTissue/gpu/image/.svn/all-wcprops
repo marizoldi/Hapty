@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image
+END
+image_get_max_octaves.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/image_get_max_octaves.h
+END
+image_make_fractal_sum_noise.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/image_make_fractal_sum_noise.h
+END
+image_make_noise.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/image_make_noise.h
+END
+image_make_fractal_sum_abs_noise.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/image_make_fractal_sum_abs_noise.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/image.h
+END
+image_alpha_modulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/image_alpha_modulation.h
+END
+image_screen_capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/image_screen_capture.h
+END
+image_animate_turbulence.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/image/image_animate_turbulence.h
+END

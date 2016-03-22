@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/util
+END
+mbd_draw_penetrations.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/util/mbd_draw_penetrations.h
+END
+mbd_draw_body.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/util/mbd_draw_body.h
+END
+mbd_draw_contacts.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/util/mbd_draw_contacts.h
+END
+mbd_mel_geometry_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/util/mbd_mel_geometry_string.h
+END
+mbd_draw_joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/util/mbd_draw_joint.h
+END
+mbd_mel_euler_filter_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/util/mbd_mel_euler_filter_string.h
+END
+mbd_mel_keyframe_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/util/mbd_mel_keyframe_string.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture
+END
+texture_create_texture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/texture_create_texture2D.h
+END
+texture_create_texture3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/texture_create_texture3D.h
+END
+fp_show_texture2D.cg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/fp_show_texture2D.cg
+END
+vp_show_texture2D.cg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/vp_show_texture2D.cg
+END
+texture_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/texture_types.h
+END
+texture_show_texture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/texture_show_texture2D.h
+END
+texture_texture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/texture_texture2D.h
+END
+gl_is_float_texture_supported.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/gl_is_float_texture_supported.h
+END
+texture_texture3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/gpu/texture/texture_texture3D.h
+END

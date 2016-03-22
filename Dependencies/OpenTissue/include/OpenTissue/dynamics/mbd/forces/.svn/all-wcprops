@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/forces
+END
+mbd_damping.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/forces/mbd_damping.h
+END
+mbd_driving_force.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/forces/mbd_driving_force.h
+END
+mbd_gravity.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/forces/mbd_gravity.h
+END

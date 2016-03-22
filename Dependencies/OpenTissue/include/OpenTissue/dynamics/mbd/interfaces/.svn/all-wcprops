@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces
+END
+mbd_ncp_solver_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_ncp_solver_interface.h
+END
+mbd_collision_resolver_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_collision_resolver_interface.h
+END
+mbd_core_constraint_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_core_constraint_interface.h
+END
+mbd_sub_constraint_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_sub_constraint_interface.h
+END
+mbd_force_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_force_interface.h
+END
+mbd_simulator_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_simulator_interface.h
+END
+mbd_scripted_motion_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_scripted_motion_interface.h
+END
+mbd_stepper_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_stepper_interface.h
+END
+mbd_joint_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_joint_interface.h
+END
+mbd_constraint_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/interfaces/mbd_constraint_interface.h
+END

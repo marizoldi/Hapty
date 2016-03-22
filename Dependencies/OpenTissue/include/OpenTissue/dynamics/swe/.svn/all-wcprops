@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/swe
+END
+swe_shallow_water_equation.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/swe/swe_shallow_water_equation.h
+END
+swe_damped_wave_equation.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/swe/swe_damped_wave_equation.h
+END

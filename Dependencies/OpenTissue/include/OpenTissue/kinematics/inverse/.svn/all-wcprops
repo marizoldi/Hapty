@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse
+END
+inverse_estimate_joints.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_estimate_joints.h
+END
+inverse_compute_jacobian.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_compute_jacobian.h
+END
+inverse_accessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_accessor.h
+END
+inverse_sinus_cone.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_sinus_cone.h
+END
+inverse_get_joint_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_get_joint_parameters.h
+END
+inverse_compute_weighted_difference.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_compute_weighted_difference.h
+END
+inverse_make_solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_make_solver.h
+END
+inverse_box_limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_box_limits.h
+END
+inverse_bone_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_bone_traits.h
+END
+inverse_nonlinear_solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_nonlinear_solver.h
+END
+inverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse.h
+END
+inverse_set_joint_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_set_joint_parameters.h
+END
+inverse_chain.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_chain.h
+END
+inverse_reach_cone.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_reach_cone.h
+END
+inverse_write_benchmarks.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_write_benchmarks.h
+END
+inverse_add_chain.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_add_chain.h
+END
+inverse_compute_joint_limits_projection.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/inverse/inverse_compute_joint_limits_projection.h
+END

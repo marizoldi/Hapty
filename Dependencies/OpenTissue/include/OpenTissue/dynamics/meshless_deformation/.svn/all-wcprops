@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/meshless_deformation
+END
+meshless_deformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/meshless_deformation/meshless_deformation.h
+END
+meshless_deformation_cluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/meshless_deformation/meshless_deformation_cluster.h
+END
+meshless_deformation_particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/meshless_deformation/meshless_deformation_particle.h
+END
+meshless_deformation_shape_matching_simulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/meshless_deformation/meshless_deformation_shape_matching_simulator.h
+END

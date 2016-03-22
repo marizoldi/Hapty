@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/psys/util
+END
+psys_direct_mesh_coupling.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/psys/util/psys_direct_mesh_coupling.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/collision
+END
+sph_collision_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/collision/sph_collision_system.h
+END
+sph_collision.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/collision/sph_collision.h
+END
+sph_collision_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/sph/collision/sph_collision_type.h
+END

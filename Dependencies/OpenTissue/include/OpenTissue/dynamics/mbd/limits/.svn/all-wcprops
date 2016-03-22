@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/limits
+END
+mbd_angular_joint_limit.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/limits/mbd_angular_joint_limit.h
+END
+mbd_linear_joint_limit.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/limits/mbd_linear_joint_limit.h
+END
+mbd_reach_cone.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/limits/mbd_reach_cone.h
+END

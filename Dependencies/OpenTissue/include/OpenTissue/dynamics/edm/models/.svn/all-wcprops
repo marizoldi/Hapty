@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/models
+END
+edm_linear_bezier_solid.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/models/edm_linear_bezier_solid.h
+END
+edm_generic_bezier_solid.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/models/edm_generic_bezier_solid.h
+END
+edm_generic_bezier_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/models/edm_generic_bezier_patch.h
+END
+edm_quadratic_bezier_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/models/edm_quadratic_bezier_patch.h
+END
+edm_ellipsoid_solid.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/models/edm_ellipsoid_solid.h
+END
+edm_ellipsoid_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/models/edm_ellipsoid_patch.h
+END
+edm_models.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/edm/models/edm_models.h
+END

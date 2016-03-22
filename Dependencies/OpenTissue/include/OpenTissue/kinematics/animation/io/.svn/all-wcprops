@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/animation/io
+END
+animation_keyframe_animation_xml_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/animation/io/animation_keyframe_animation_xml_read.h
+END
+animation_keyframe_animation_cal3d_xml_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/kinematics/animation/io/animation_keyframe_animation_cal3d_xml_read.h
+END

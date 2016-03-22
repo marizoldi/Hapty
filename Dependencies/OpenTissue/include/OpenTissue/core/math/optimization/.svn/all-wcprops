@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization
+END
+optimization_compute_index_reordering.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_compute_index_reordering.h
+END
+optimization_armijo_projected_backtracking.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_armijo_projected_backtracking.h
+END
+optimization_armijo_backtracking.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_armijo_backtracking.h
+END
+optimization_compute_generalized_minimal_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_compute_generalized_minimal_map.h
+END
+optimization_relative_convergence.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_relative_convergence.h
+END
+optimization_partition_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_partition_vector.h
+END
+optimization_absolute_convergence.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_absolute_convergence.h
+END
+optimization_make_constant_bounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_make_constant_bounds.h
+END
+optimization_projected_steepest_descent.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_projected_steepest_descent.h
+END
+optimization_compute_index_sets.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_compute_index_sets.h
+END
+optimization_compute_natural_merit.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_compute_natural_merit.h
+END
+optimization_project.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_project.h
+END
+optimization_projected_gauss_seidel.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_projected_gauss_seidel.h
+END
+optimization_stationary_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_stationary_point.h
+END
+optimization_stagnation.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_stagnation.h
+END
+optimization_make_mbd_bounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_make_mbd_bounds.h
+END
+optimization_agglomerate_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_agglomerate_vector.h
+END
+optimization_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_constants.h
+END
+optimization_non_smooth_newton.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_non_smooth_newton.h
+END
+optimization_perturbation.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_perturbation.h
+END
+optimization_projected_bfgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_projected_bfgs.h
+END
+optimization_bounds2constraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_bounds2constraint.h
+END
+optimization_blocking_constraint_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_blocking_constraint_search.h
+END
+optimization_bfgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/math/optimization/optimization_bfgs.h
+END

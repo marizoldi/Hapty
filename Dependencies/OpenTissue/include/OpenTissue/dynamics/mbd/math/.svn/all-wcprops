@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/math
+END
+mbd_math_compute_WJT.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/math/mbd_math_compute_WJT.h
+END
+mbd_math_compute_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/math/mbd_math_compute_f.h
+END
+mbd_default_math_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/math/mbd_default_math_policy.h
+END
+mbd_math_update_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/math/mbd_math_update_f.h
+END
+mbd_optimized_ublas_math_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/math/mbd_optimized_ublas_math_policy.h
+END
+mbd_math_compute_diagonal.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/math/mbd_math_compute_diagonal.h
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd
+END
+mbd_get_dependencies_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_dependencies_vector.h
+END
+mbd_stack_analysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_stack_analysis.h
+END
+mbd_body_group.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_body_group.h
+END
+mbd_is_all_bodies_sleepy.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_is_all_bodies_sleepy.h
+END
+mbd_compute_collision_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_compute_collision_matrix.h
+END
+mbd_no_sleepy_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_no_sleepy_policy.h
+END
+mbd_compute_kinetic_energy_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_compute_kinetic_energy_vector.h
+END
+mbd_get_velocity_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_velocity_vector.h
+END
+mbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd.h
+END
+mbd_get_regularization_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_regularization_vector.h
+END
+mbd_get_inverse_mass_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_inverse_mass_matrix.h
+END
+mbd_compute_scripted_motions.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_compute_scripted_motions.h
+END
+mbd_get_factors_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_factors_vector.h
+END
+mbd_compute_contact_count_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_compute_contact_count_matrix.h
+END
+mbd_apply_impulse.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_apply_impulse.h
+END
+mbd_get_cached_solution_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_cached_solution_vector.h
+END
+mbd_get_mass_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_mass_matrix.h
+END
+mbd_update_inertia_tensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_update_inertia_tensor.h
+END
+mbd_joint_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_joint_socket.h
+END
+mbd_set_velocity_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_set_velocity_vector.h
+END
+mbd_evaluate_constraints.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_evaluate_constraints.h
+END
+mbd_compute_min_max_distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_compute_min_max_distance.h
+END
+mbd_get_ncp_formulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_ncp_formulation.h
+END
+mbd_material.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_material.h
+END
+mbd_compute_contact_count.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_compute_contact_count.h
+END
+mbd_kinetic_energy_sleepy_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_kinetic_energy_sleepy_policy.h
+END
+mbd_set_cached_solution_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_set_cached_solution_vector.h
+END
+mbd_edge.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_edge.h
+END
+mbd_collision_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_collision_info.h
+END
+mbd_configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_configuration.h
+END
+mbd_stack_propagation.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_stack_propagation.h
+END
+mbd_get_external_force_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_external_force_vector.h
+END
+mbd_get_limit_vectors.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_limit_vectors.h
+END
+mbd_material_library.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_material_library.h
+END
+mbd_get_position_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_position_vector.h
+END
+mbd_get_jacobian_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_jacobian_matrix.h
+END
+mbd_body.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_body.h
+END
+mbd_get_stabilization_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_get_stabilization_vector.h
+END
+mbd_compute_relative_contact_velocity.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_compute_relative_contact_velocity.h
+END
+mbd_set_position_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_set_position_vector.h
+END
+mbd_compute_position_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_compute_position_update.h
+END
+mbd_contact_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_contact_point.h
+END
+mbd_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/dynamics/mbd/mbd_types.h
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External
+END
+msvcr71d.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/msvcr71d.dll
+END
+glew32d.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glew32d.dll
+END
+cgGL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/cgGL.lib
+END
+ILUT.lib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/ILUT.lib
+END
+atlas_local.lib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/atlas_local.lib
+END
+glut32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glut32.lib
+END
+ilut.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/ilut.dll
+END
+atlas_local.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/atlas_local.dll
+END
+glut32D.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glut32D.lib
+END
+glut32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glut32.dll
+END
+glew32s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glew32s.lib
+END
+cg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/cg.lib
+END
+ILU.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/ILU.lib
+END
+glut32D.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glut32D.dll
+END
+qhullD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/qhullD.lib
+END
+TetGenD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/TetGenD.lib
+END
+glew32sd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glew32sd.lib
+END
+ilu.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/ilu.dll
+END
+glew32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glew32.lib
+END
+DevIL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/DevIL.lib
+END
+glew32d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glew32d.lib
+END
+glew32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/glew32.dll
+END
+devil.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/devil.dll
+END
+TinyXMLD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/TinyXMLD.lib
+END
+TriangleD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/lib/External/TriangleD.lib
+END

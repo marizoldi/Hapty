@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline
+END
+spline.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline.h
+END
+spline_initialize_m_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_initialize_m_table.h
+END
+spline_compute_knot_span.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_compute_knot_span.h
+END
+spline_make_cubic_interpolation.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_make_cubic_interpolation.h
+END
+spline_make_periodic.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_make_periodic.h
+END
+spline_compute_spline_derivatives.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_compute_spline_derivatives.h
+END
+spline_compute_point_on_spline.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_compute_point_on_spline.h
+END
+spline_compute_basis.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_compute_basis.h
+END
+spline_insert_knot.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_insert_knot.h
+END
+spline_compute_basis_derivatives.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_compute_basis_derivatives.h
+END
+spline_solve_tridiagonal.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_solve_tridiagonal.h
+END
+spline_nubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_nubs.h
+END
+spline_compute_nonzero_basis.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_compute_nonzero_basis.h
+END
+spline_compute_chord_length_knot_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_compute_chord_length_knot_vector.h
+END
+spline_math_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hapticanimation_otbody/!svn/ver/18/Dependencies/OpenTissue/include/OpenTissue/core/spline/spline_math_types.h
+END
