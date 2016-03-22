@@ -1,0 +1,1415 @@
+<?xml version="1.0"?>
+<Animation>
+	<Camera>
+		<CameraPosition x="0" y="0" z="20" />
+		<CameraOrientation w="1" x="0" y="0" z="0" />
+	</Camera>
+	<Keyframe Nr="0">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.121587" y="-0.0639958" z="0.0305176" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.104372" x="0.535677" y="0.810181" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="1">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.120338" y="-0.0719517" z="0.0395804" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.104372" x="0.535677" y="0.810181" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="2">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.111471" y="-0.085963" z="0.0589257" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.104372" x="0.535676" y="0.81018" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="3">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.105237" y="-0.11188" z="0.0854647" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.104372" x="0.535676" y="0.81018" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="4">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0877758" y="-0.150896" z="0.0906793" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.104372" x="0.535676" y="0.81018" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="5">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0877758" y="-0.150896" z="0.0906793" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0290414" x="0.700382" y="0.667289" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="6">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0877758" y="-0.150896" z="0.0906793" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="7">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0742957" y="-0.160683" z="0.0943298" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="8">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0638823" y="-0.161553" z="0.0972572" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="9">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0440513" y="-0.16168" z="0.102729" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="10">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0284598" y="-0.162573" z="0.105521" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="11">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0122073" y="-0.162339" z="0.0931552" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="1" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="12">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="-0.0122073" y="-0.162339" z="0.0931552" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="0.30303" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="13">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="0.001232" y="-0.158824" z="0.0929958" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="0.30303" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="14">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="0.0188253" y="-0.152642" z="0.0904476" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0559733" y="-0.04721" z="0.00371551" />
+			<EntityOrientation w="-0.0883797" x="0.696022" y="0.655381" />
+			<EntityColour r="0.30303" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+	<Keyframe Nr="15">
+		<Entity Name="FinalView">
+			<EntityPosition x="0" y="0" z="0" />
+			<EntityOrientation w="1" x="0" y="0" />
+		</Entity>
+		<Entity Name="Cat-Robot.mesh_0">
+			<EntityPosition x="-0.06661" y="-0.193776" z="-0.211839" />
+			<EntityOrientation w="1" x="0" y="0" />
+			<Bone BoneName="root">
+				<BonePosition bx="-0.00138122" by="-0.0366131" bz="-0.0486415" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="torso">
+				<BonePosition bx="0.00175473" by="0.0570287" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckBase">
+				<BonePosition bx="0.00350946" by="0.0561514" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="neckUp">
+				<BonePosition bx="-0.000877365" by="0.0473777" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="head">
+				<BonePosition bx="-0.0026321" by="0.118444" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftShoulder">
+				<BonePosition bx="-0.075073" by="0.0502481" bz="0" />
+				<BoneOrientation bw="0.990909" bx="0.130294" by="-0.00438009" bz="-0.0332237" />
+			</Bone>
+			<Bone BoneName="leftArm">
+				<BonePosition bx="0.0133493" by="-0.203216" bz="0.0549291" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHand">
+				<BonePosition bx="0.0094141" by="-0.11407" bz="0.0305594" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightShoulder">
+				<BonePosition bx="0.075385" by="0.0559981" bz="0" />
+				<BoneOrientation bw="1" bx="-0.000160671" by="0" bz="4.66402e-008" />
+			</Bone>
+			<Bone BoneName="rightArm">
+				<BonePosition bx="0.00670832" by="-0.220416" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHand">
+				<BonePosition bx="0.00191666" by="-0.116916" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftHip">
+				<BonePosition bx="-0.0570287" by="-0.000877365" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftCalf">
+				<BonePosition bx="0.00175473" by="-0.149152" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="leftToe">
+				<BonePosition bx="-0.000794324" by="-0.15727" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightHip">
+				<BonePosition bx="0.0627648" by="-0.00159211" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightCalf">
+				<BonePosition bx="0.00191666" by="-0.153333" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+			<Bone BoneName="rightToe">
+				<BonePosition bx="-0.00766665" by="-0.144708" bz="0" />
+				<BoneOrientation bw="1" bx="0" by="0" bz="0" />
+			</Bone>
+		</Entity>
+		<Entity Name="OmniLight_0">
+			<EntityPosition x="0.0188253" y="-0.152642" z="0.0904476" />
+			<EntityOrientation w="0.707107" x="0.707107" y="0" />
+			<EntityColour r="1" g="1" b="1" />
+		</Entity>
+		<Entity Name="SpotLight_0">
+			<EntityPosition x="0.0170566" y="-0.0893043" z="0.070278" />
+			<EntityOrientation w="-0.0058458" x="0.727352" y="0.643209" />
+			<EntityColour r="0.30303" g="0.474747" b="1" />
+		</Entity>
+	</Keyframe>
+</Animation>
