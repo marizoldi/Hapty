@@ -12,4 +12,4 @@ A digital haptic animation prototype workspace for doing puppet stop-motion usin
 ![Wireframe](https://cloud.githubusercontent.com/assets/16060989/12142338/3287d470-b46f-11e5-9816-aecbfe1e1da4.png)
 =======
 Haptically-enabled digital workspace for stop-motion animation
->>>>>>> 3f65eb06c50c915d996970c4f38c8b32abcba695
+
