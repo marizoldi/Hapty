@@ -1,5 +1,4 @@
 # Hapty
-<<<<<<< HEAD
 
 A digital haptic animation prototype workspace for doing puppet stop-motion using Falcon or Omni haptic device. Built using Ogre 3D rendering engine on Visual Studio. 
 
